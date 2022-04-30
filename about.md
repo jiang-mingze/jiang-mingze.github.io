@@ -19,6 +19,7 @@ Educations
 # Publications
 
 + A composite propulsion bionic hammerhead shark underwater vehicle  [[pdf]](./files/A composite propulsion bionic hammerhead shark underwater vehicle.pdf)
++ A composite propulsion bionic hammerhead shark underwater vehicle  [[model]](./files/111.docx)
 
 Honors and Awards
 ======
