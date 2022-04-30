@@ -12,6 +12,9 @@ I am now a senior undergraduate majoring in [Naval Architecture And Ocean Engine
 
 My research interests are fluid mechanics, New power propulsion system.
 
+My CV is as follows：[[CN]](./files/CNCV.pdf)and[[EN]](./files/CNCV.pdf)
+
+
 Educations
 ======
 * Aug.2019-now . B.S. in School of Marine Science and Technology, Northwestern Polytechnical University
