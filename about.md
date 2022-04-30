@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am now a senior undergraduate majoring in [Software Engineering](http://ruanjian.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. I am now an intern in the team of Professor [Wang Peng](https://teacher.nwpu.edu.cn/pengwang.html) at the [National Engineering Laboratory of Big Data Application Technology of Northwestern Polytechnical University](http://kypt.nwpu.edu.cn/index.php?c=content&a=show&id=307), mainly researching person re-identification and cross-modal matching
+I am now a senior undergraduate majoring in [naval architecture and ocean engineering](https://hanghai.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. I am now an intern in the team of Professor [Wang Peng](https://teacher.nwpu.edu.cn/pengwang.html) at the [National Engineering Laboratory of Big Data Application Technology of Northwestern Polytechnical University](http://kypt.nwpu.edu.cn/index.php?c=content&a=show&id=307), mainly researching person re-identification and cross-modal matching
 
-My research interests are computer vision, deep learning, robotics and etc.
+My research interests are fluid mechanics, deep learning, robotics and etc.
 
 Educations
 ======
-* Aug.2018-now . B.S. in School of Software, Northwestern Polytechnical University
+* Aug.2019-now . B.S. in School of Marine Science and Technology, Northwestern Polytechnical University
 
 # Publications
 
-+ Text-Guided Visual Feature Refinement for Text-Based Person Search (ICMR Oral)  [[pdf]](./files/Text-Guided Visual Feature Refinement for Text-Based Person Search.pdf)
++ A composite propulsion bionic hammerhead shark underwater vehicle  [[pdf]](./files/Text-Guided Visual Feature Refinement for Text-Based Person Search.pdf)
 
 Honors and Awards
 ======
