@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a senior undergraduate majoring in [naval architecture and ocean engineering](https://hanghai.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. I am now an intern in the team of Professor [Wang Peng](https://teacher.nwpu.edu.cn/pengwang.html) at the [National Engineering Laboratory of Big Data Application Technology of Northwestern Polytechnical University](http://kypt.nwpu.edu.cn/index.php?c=content&a=show&id=307), mainly researching person re-identification and cross-modal matching
+I am now a senior undergraduate majoring in [Naval Architecture And Ocean Engineering](https://hanghai.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. I am now an intern in the team of Professor [Peng DU](https://penguinfluid.wordpress.com/about-me/) at the ["Underwater Bionics and Flow Control" Technology Innovation Team of Northwestern Polytechnical University](https://hanghai.nwpu.edu.cn/info/1600/8628.htm), mainly researching hydrodynamic characteristics of underwater vehicle, numerical simulation
 
 My research interests are fluid mechanics, deep learning, robotics and etc.
 
