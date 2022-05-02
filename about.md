@@ -43,4 +43,4 @@ Projects
   * Hydrodynamic load characteristics and energy transfer of underwater vehicle under the action of internal waves
   * Development of a multi-degree-of-freedom robotic arm combined with a multi-functional flexible gripper
   * Humanoid Robot Design
-  * Mechanical Structure Design of All Terrain Tracked Vehicle
+  * [Mechanical Structure Design of All Terrain Tracked Vehicle](https://github.com/jiang-mingze/3D_model_display/blob/main/All-terrain%20tracked%20vehicle/%E4%B8%BB%E8%A7%86%E5%9B%BE.jpg)
