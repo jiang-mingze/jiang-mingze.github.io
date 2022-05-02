@@ -21,8 +21,8 @@ Educations
 
 # Publications
 
-+ A composite propulsion bionic hammerhead shark underwater vehicle  [[pdf]](./files/A composite propulsion bionic hammerhead shark underwater vehicle.pdf)
-+ A composite propulsion bionic hammerhead shark underwater vehicle  [[model]](./files/111.docx)
++ A composite propulsion bionic hammerhead shark underwater vehicle  [[pdf]](./files/A composite propulsion bionic hammerhead shark underwater vehicle.pdf)&[[model]](./files/111.docx)
+
 
 Honors and Awards
 ======
@@ -37,9 +37,10 @@ Honors and Awards
 
 Projects
 ======
-  * [basketball robot project](https://github.com/Zehong-Ma/nwpu_20_basketball_robot)
+  * [Mechanical structure design of basketball robot](https://github.com/Zehong-Ma/nwpu_20_basketball_robot)
   * Dual thrust solid rocket motor grain design
   * Design of Vibration Reduction Scheme for Air Conditioning Compressor
   * Hydrodynamic load characteristics and energy transfer of underwater vehicle under the action of internal waves
   * Development of a multi-degree-of-freedom robotic arm combined with a multi-functional flexible gripper
   * Humanoid Robot Design
+  * Mechanical Structure Design of All Terrain Tracked Vehicle
