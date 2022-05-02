@@ -37,7 +37,7 @@ Honors and Awards
 
 Projects
 ======
-  * [Mechanical structure design of basketball robot](https://github.com/Zehong-Ma/nwpu_20_basketball_robot)
+  * [Mechanical structure design of basketball robot](https://github.com/jiang-mingze/nwpu_20_basketball_robot/tree/master/basketball_robot_model)
   * Dual thrust solid rocket motor grain design
   * Design of Vibration Reduction Scheme for Air Conditioning Compressor
   * Hydrodynamic load characteristics and energy transfer of underwater vehicle under the action of internal waves
