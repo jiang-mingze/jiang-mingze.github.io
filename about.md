@@ -32,8 +32,8 @@ Honors and Awards
 * 2020\. National Champion of China Robotics Competition Basketball Robot Project(Challenge) 
 * 2022\. National Champion of China Robotics Competition Basketball Robot Project(Autonomy) 
 * 2021\. National First Prize of National Robot Championship 
-* 2020\.First Prize in Preliminary Competition of National Undergraduate Mathematics Competition
-* 2021\.The third prize in the Northwest Division of the 10th National Marine Vehicle Design and Production Competition
+* 2020\. First Prize in Preliminary Competition of National Undergraduate Mathematics Competition
+* 2021\. The third prize in the Northwest Division of the 10th National Marine Vehicle Design and Production Competition(Design & Manufacture)
 
 Projects
 ======
