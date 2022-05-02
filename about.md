@@ -12,7 +12,7 @@ I am now a senior undergraduate majoring in [Naval Architecture And Ocean Engine
 
 My research interests are fluid mechanics, New power propulsion system.
 
-My CV is as follows：[[CN]](./files/CNCV.pdf)&[[EN]](./files/CNCV.pdf)
+My CV is as follows ：[[CN]](./files/CNCV.pdf)&[[EN]](./files/CNCV.pdf)
 
 
 Educations
