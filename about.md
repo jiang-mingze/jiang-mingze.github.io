@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now a senior undergraduate majoring in [Naval Architecture And Ocean Engineering](https://hanghai.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. I am now an intern in the team of Professor [Peng DU](https://penguinfluid.wordpress.com/about-me/) at the ["Underwater Bionics and Flow Control" Technology Innovation Team of Northwestern Polytechnical University](https://hanghai.nwpu.edu.cn/info/1600/8628.htm), mainly researching hydrodynamic characteristics of underwater vehicle, numerical simulation
+I am now a senior undergraduate majoring in [Naval Architecture And Ocean Engineering](https://hanghai.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. I am now an intern in the team of Associate Professor [Peng DU](https://penguinfluid.wordpress.com/about-me/) at the ["Underwater Bionics and Flow Control" Technology Innovation Team of Northwestern Polytechnical University](https://hanghai.nwpu.edu.cn/info/1600/8628.htm), mainly researching hydrodynamic characteristics of underwater vehicle, numerical simulation
 
 My research interests are fluid mechanics, New power propulsion system.
 
-My CV is as follows ：[[CN]](./files/CNCV.pdf)&[[EN]](./files/CNCV.pdf)
+My CV is as follows ：[[CV]](./files/CNCV.pdf)
 
 
 Educations
@@ -42,5 +42,5 @@ Projects
   * Design of Vibration Reduction Scheme for Air Conditioning Compressor
   * Hydrodynamic load characteristics and energy transfer of underwater vehicle under the action of internal waves
   * Development of a multi-degree-of-freedom robotic arm combined with a multi-functional flexible gripper
-  * Transformable humanoid robotDesign
+  * Transformable humanoid robot Design
   * [Mechanical Structure Design of All Terrain Tracked Vehicle](https://github.com/jiang-mingze/3D_model_display_All-terrain-tracked-vehicle)
