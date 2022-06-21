@@ -39,7 +39,7 @@ Honors and Awards
 Projects
 ======
   * [Mechanical structure design of basketball robot](./files/全向篮球捡球投篮车.pdf)
-  * [Small underwater vehicle](./files/小型水下工作航行器.pdf)
+  * [Small Underwater Vehicle](./files/小型水下工作航行器.pdf)
   * Design of Vibration Reduction Scheme for Air Conditioning Compressor
   * Hydrodynamic load characteristics and energy transfer of underwater vehicle under the action of internal waves
   * Development of a multi-degree-of-freedom robotic arm combined with a multi-functional flexible gripper
