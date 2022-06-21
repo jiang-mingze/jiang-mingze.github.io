@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am now a senior undergraduate majoring in [Naval Architecture And Ocean Engineering](https://hanghai.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. I am now an intern in the team of Associate Professor [Peng DU](https://penguinfluid.wordpress.com/about-me/) at the ["Underwater Bionics and Flow Control" Technology Innovation Team of Northwestern Polytechnical University](https://hanghai.nwpu.edu.cn/info/1600/8628.htm), mainly researching hydrodynamic characteristics of underwater vehicle, numerical simulation
+I am now a senior undergraduate majoring in [Naval Architecture And Ocean Engineering](https://hanghai.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. 
 
-My research interests are fluid mechanics, new power propulsion system.
+My research interests are mechanics，Mechatronics.
 
 My CV is as follows ：[[CV]](./files/CNCV.pdf)
 
