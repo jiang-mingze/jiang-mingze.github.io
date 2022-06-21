@@ -38,10 +38,10 @@ Honors and Awards
 
 Projects
 ======
-  * [Mechanical structure design of basketball robot](https://github.com/jiang-mingze/nwpu_20_basketball_robot/tree/master/basketball_robot_model)
+  * [Mechanical structure design of basketball robot](./files/全向篮球捡球投篮车.pdf)
   * Dual thrust solid rocket motor grain design
   * Design of Vibration Reduction Scheme for Air Conditioning Compressor
   * Hydrodynamic load characteristics and energy transfer of underwater vehicle under the action of internal waves
   * Development of a multi-degree-of-freedom robotic arm combined with a multi-functional flexible gripper
-  * Transformable humanoid robot Design
-  * [Mechanical Structure Design of All Terrain Tracked Vehicle](https://github.com/jiang-mingze/3D_model_display_All-terrain-tracked-vehicle)
+  * [Transformable humanoid robot Design](./files/变形飞机.pdf)
+  * [Mechanical Structure Design of All Terrain Tracked Vehicle](./files/全地形履带车.pdf)
