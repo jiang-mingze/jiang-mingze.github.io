@@ -12,7 +12,7 @@ I am now a senior undergraduate majoring in [Naval Architecture And Ocean Engine
 
 My research interests are Mechanics，Mechatronics.
 
-My CV is as follows ：[[CV]](./files/姜明泽-个人简历.pdf)
+My CV is as follows ：[[CV]](./files/姜明泽 - 简历.pdf)
 
 
 Educations
