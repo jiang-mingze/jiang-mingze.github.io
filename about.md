@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a senior undergraduate majoring in [Naval Architecture And Ocean Engineering](https://hanghai.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. Communist probationary member，21 years old.
 
-My research interests are Fluid Mechanics，Mechatronics，Robot.
+My research interests are Fluid Mechanics，Mechanical and Electrical Engineerings，Robot.
 
 My CV is as follows ：[[CV]](./files/姜明泽 - 简历.pdf)
 
