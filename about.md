@@ -17,7 +17,8 @@ My CV is as follows ：[[CV]](./files/姜明泽 - 简历.pdf)
 
 Educations
 ======
-* Aug.2019-now . B.S. in School of Marine Science and Technology, Northwestern Polytechnical University
+* Aug.2019-Jun.2023 . B.S. in School of Marine Science and Technology, Northwestern Polytechnical University
+* Aug.2023-now .Ph.d. in School of Aerospace Engineering，Tsinghua University
 
 # Publications
 
