@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am now a senior undergraduate majoring in [Naval Architecture And Ocean Engineering](https://hanghai.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. Communist probationary member，21 years old.
+I am now a PhD student studying at the National Engineering Research Center for Neuromodulation（NERCN）,School of Aerospace Engineering，Tsinghua University, Beijing, China. 
 
-My research interests are Fluid Mechanics，Mechanical and Electrical Engineerings，Robot.
+My research discipline is Medicine-Engineering Interdisciplinary，focus on Neuroscience，Neural Engineering and Neuromodulation.
 
-My CV is as follows ：[[CV]](./files/姜明泽 - 简历.pdf)
 
 
 Educations
